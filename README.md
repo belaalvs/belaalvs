@@ -1,7 +1,7 @@
 # 👩‍💻 Oii, eu sou a Bela ✨
 
 <p align="center">
-  <img src="LINK_DO_GIF" width="500px">
+  <img src="content://media/external/downloads/89468" width="500px">
 </p>
 
 ---
